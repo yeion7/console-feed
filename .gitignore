@@ -6,3 +6,4 @@
 /umd
 npm-debug.log*
 .DS_Store
+.rts2_cache_cjs
